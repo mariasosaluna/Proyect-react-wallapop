@@ -1,0 +1,186 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "portatil",
+            "type": "tecnology",
+            "price": "250£",
+            "images":  "https://ssl-product-images.www8-hp.com/digmedialib/prodimg/lowres/c05483190.png",
+            "description": "Vendo este portatil hp que está como nuevo. Tiene 4 GB de RAM y 16 de disco duro. El precio no es negociable. Lo vendo con la funda y el cargador." ,   
+            "user":""
+        },
+        {
+            "id": 2,
+            "name": "Sigma 8-16 / Canon EF",
+            "type": "tecnology",
+            "price": "240£",
+            "images":  "https://www.sigma-photo.es/126-home_default/sigma-50mm-f14-dg-hsm-art.jpg",
+            "description": "Sigma 8-16mm f/4.5-5.6 DC HSM AutoFocus Wide Angle Zoom Lens - Lens Hood - Front &amp; Rear Lens Caps HSM (Hyper-Sonic Motor) ensures a quiet &amp; high-speed auto focus FLD glass elements with performance equal to fluorite glass for compensate for color aberration One Aspherical lens and two glass mold elements" ,   
+            "user":""
+        },
+        {
+            "id": 3,
+            "name": "Mesa 80cm",
+            "type": "home",
+             "price": "95£",
+             "images":  "https://cloud10.todocoleccion.online/segunda-mano/tc/2020/11/08/10/223777891_tcimg_D028C02E.jpg",
+             "description": "A estrenar",
+            "user": ""
+        },
+        {
+            "id": 4,
+            "name": "Sofa cama 220cm",
+            "type": "home",
+            "price": "180£",
+            "images":  "https://cloud10.todocoleccion.online/segunda-mano/tc/2019/05/21/19/165233634.jpg",
+            "description": "Proin ligula quam, egestas in scelerisque porta, dignissim quis nibh. Integer a tempus lacus.",
+            "user": ""
+        },
+        {
+            "id": 5,
+            "name": "Tarjeta gráfica",
+            "type": "tecnology",
+            "price": "50£",
+            "images":  "https://img.milanuncios.com/fg/2887/26/288726464_2.jpg",
+            "description": "Proin ligula quam, egestas in scelerisque porta, dignissim quis nibh. Integer a tempus lacus.",
+            "user": ""
+        },
+        {
+            "id": 6,
+            "name": "Par de walkie-talkies sin licencia PMR446",
+            "type": "tecnology",
+            "price": "30£",
+            "images":  "https://www.tomaydame.es/imagenes/img_big/WALKIE-TALKIE-4KMS-MOTOROLA-TLKR-T40-E44917-0(1).jpg",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sed mi vitae nibh vehicula sodales. Ut dapibus risus nec turpis laoreet, vitae auctor risus suscipit. Aliquam ac tortor nulla. Quisque a tincidunt eros, non placerat lectus. Curabitur sed magna eu purus ullamcorper placerat sit amet consectetur ante. ",
+            "user": ""
+        },
+        {
+            "id": 7,
+            "name": "Ipad de sexta generación",
+            "type": "tecnology",
+            "price": "200£",
+            "images":  "https://www.mcfactory.es/1720-home_default/ipad-pro-cuarta-generacion-segunda-mano.jpg",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sed mi vitae nibh vehicula sodales. Ut dapibus risus nec turpis laoreet, vitae auctor risus suscipit. Aliquam ac tortor nulla. Quisque a tincidunt eros, non placerat lectus.",
+            "user": ""
+        },
+        {
+            "id": 8,
+            "name": "Ipad de sexta generación",
+            "type": "tecnology",
+            "price": "200£",
+            "images":  "https://www.mcfactory.es/1720-home_default/ipad-pro-cuarta-generacion-segunda-mano.jpg",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sed mi vitae nibh vehicula sodales. Ut dapibus risus nec turpis laoreet, vitae auctor risus suscipit. Aliquam ac tortor nulla. Quisque a tincidunt eros, non placerat lectus.",
+            "user": ""
+        },
+        {
+            "id": 9,
+            "name": "Ipad de sexta generación",
+            "type": "tecnology",
+            "price": "200£",
+            "images":  "https://www.mcfactory.es/1720-home_default/ipad-pro-cuarta-generacion-segunda-mano.jpg",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sed mi vitae nibh vehicula sodales. Ut dapibus risus nec turpis laoreet, vitae auctor risus suscipit. Aliquam ac tortor nulla. Quisque a tincidunt eros, non placerat lectus.",
+            "user": ""
+        },
+        {
+            "id": 10,
+            "name": "Ipad de sexta generación",
+            "type": "tecnology",
+            "price": "200£",
+            "images":  "https://www.mcfactory.es/1720-home_default/ipad-pro-cuarta-generacion-segunda-mano.jpg",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sed mi vitae nibh vehicula sodales. Ut dapibus risus nec turpis laoreet, vitae auctor risus suscipit. Aliquam ac tortor nulla. Quisque a tincidunt eros, non placerat lectus.",
+            "user": ""
+        },
+        {
+            "id": 11,
+            "name": "Lámpara",
+            "type": "home",
+            "price": "90£",
+            "images":  "https://www.mcfactory.es/1720-home_default/ipad-pro-cuarta-generacion-segunda-mano.jpg",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sed mi vitae nibh vehicula sodales. Ut dapibus risus nec turpis laoreet, vitae auctor risus suscipit. Aliquam ac tortor nulla. Quisque a tincidunt eros, non placerat lectus.",
+            "user": ""
+        },
+        {
+            "id": 12,
+            "name": "Canapé",
+            "type": "home",
+            "price": "250£",
+            "images":  "https://www.mueblesalcoste.es/fotos/vendedores/g6479-23090-pack%20colchon%20mas%20canape%20026.jpg",
+            "description": "Proin ligula quam, egestas in scelerisque porta, dignissim quis nibh. Integer a tempus lacus.",
+            "user": ""
+        },
+        {
+            "id": 13,
+            "name": "Ipad de sexta generación",
+            "type": "home",
+            "price": "200£",
+            "images":  "https://www.mcfactory.es/1720-home_default/ipad-pro-cuarta-generacion-segunda-mano.jpg",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sed mi vitae nibh vehicula sodales. Ut dapibus risus nec turpis laoreet, vitae auctor risus suscipit. Aliquam ac tortor nulla. Quisque a tincidunt eros, non placerat lectus.",
+            "user": ""
+        },
+        {
+            "id": 14,
+            "name": "Ipad de sexta generación",
+            "type": "home",
+            "price": "200£",
+            "images":  "https://www.mcfactory.es/1720-home_default/ipad-pro-cuarta-generacion-segunda-mano.jpg",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sed mi vitae nibh vehicula sodales. Ut dapibus risus nec turpis laoreet, vitae auctor risus suscipit. Aliquam ac tortor nulla. Quisque a tincidunt eros, non placerat lectus.",
+            "user": ""
+        },
+        {
+            "id": 15,
+            "name": "Ipad de sexta generación",
+            "type": "home",
+            "price": "200£",
+            "images":  "https://www.mcfactory.es/1720-home_default/ipad-pro-cuarta-generacion-segunda-mano.jpg",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sed mi vitae nibh vehicula sodales. Ut dapibus risus nec turpis laoreet, vitae auctor risus suscipit. Aliquam ac tortor nulla. Quisque a tincidunt eros, non placerat lectus.",
+            "user": ""
+        },
+        {
+            "id": 16,
+            "name": "Ipad de sexta generación",
+            "type": "bicicletas",
+            "price": "200£",
+            "images":  "https://www.mcfactory.es/1720-home_default/ipad-pro-cuarta-generacion-segunda-mano.jpg",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sed mi vitae nibh vehicula sodales. Ut dapibus risus nec turpis laoreet, vitae auctor risus suscipit. Aliquam ac tortor nulla. Quisque a tincidunt eros, non placerat lectus.",
+            "user": ""
+        },
+        {
+            "id": 17,
+            "name": "Ipad de sexta generación",
+            "type": "bicicletas",
+            "price": "200£",
+            "images":  "https://www.mcfactory.es/1720-home_default/ipad-pro-cuarta-generacion-segunda-mano.jpg",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sed mi vitae nibh vehicula sodales. Ut dapibus risus nec turpis laoreet, vitae auctor risus suscipit. Aliquam ac tortor nulla. Quisque a tincidunt eros, non placerat lectus.",
+            "user": ""
+        },
+        {
+            "id": 18,
+            "name": "Ipad de sexta generación",
+            "type": "bicicletas",
+            "price": "200£",
+            "images":  "https://www.mcfactory.es/1720-home_default/ipad-pro-cuarta-generacion-segunda-mano.jpg",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sed mi vitae nibh vehicula sodales. Ut dapibus risus nec turpis laoreet, vitae auctor risus suscipit. Aliquam ac tortor nulla. Quisque a tincidunt eros, non placerat lectus.",
+            "user": ""
+        },
+        {
+            "id": 19,
+            "name": "Carrito",
+            "type": "babiesChild",
+            "price": "125£",
+            "images":  "https://www.tiendamariluz.com/wp-content/uploads/2020/11/ELEGANCE-MARINO-ROBERTO-VERINO-CARRITO-BEBE-BABY-ACE-BABYESSENTIALS...jpg",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sed mi vitae nibh vehicula sodales. Ut dapibus risus nec turpis laoreet, vitae auctor risus suscipit. Aliquam ac tortor nulla. Quisque a tincidunt eros, non placerat lectus.",
+            "user": ""
+        },
+        {
+            "id": 20,
+            "name": "Triciclo",
+            "type": "babiesChild",
+            "price": "200",
+            "images":  "https://www.carritosbaratos.com/21216-large_default/triciclo-para-ninos-runner-multicolor-de-chipolino.jpg",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sed mi vitae nibh vehicula sodales. Ut dapibus risus nec turpis laoreet, vitae auctor risus suscipit. Aliquam ac tortor nulla. Quisque a tincidunt eros, non placerat lectus.",
+            "user": ""
+        }
+              
+    ]
+}
+
