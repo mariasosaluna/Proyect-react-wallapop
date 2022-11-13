@@ -8,7 +8,7 @@ export const getallProducts = async (id) => {
 };
 
 export const addProduct = async (product) => {
-  return await axios.post(url, user);
+  return await axios.post(url, product);
 };
 
 export const editProduct = async (id, product) => {

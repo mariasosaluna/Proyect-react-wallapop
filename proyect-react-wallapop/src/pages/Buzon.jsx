@@ -8,11 +8,18 @@ const Construction = styled.p`
   margin-top: 100px;
 `;
 
+const ImageConstruction = styled.img`
+  display: block;
+  margin: auto;
+  width: 600px;
+`;
+
 const Buzon = () => {
   return (
     <div>
       <Header />
       <Construction>Página en construcción, disculpen las molestias</Construction>
+      <ImageConstruction src="/src/assets/icons/Construc img.png" />
     </div>
   );
 };

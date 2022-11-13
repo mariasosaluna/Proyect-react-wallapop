@@ -4,7 +4,6 @@ import Product from '/src/Components/Product';
 import Header from '../Components/Header';
 import { getallProducts } from '/src/services/product.js';
 import styled from 'styled-components';
-import { type } from 'server/reply';
 
 const ListContainer = styled.div`
   margin: 100px;
@@ -46,33 +45,46 @@ const ProductButton = styled.button`
     background-color: #0f9988;
   }
 `;
-
+const types = {
+  home: 'Hogar y jardín',
+  technology: 'Electrónica',
+  babiesChild: 'Bebés y niños',
+  bikes: 'Bicicletas',
+};
 const Products = () => {
   const [products, setProducts] = useState([]);
-  const params = useParams('type');
+  const { type } = useParams('type');
+  const { search } = useParams('search');
 
   const getProducts = async () => {
     const allProducts = await getallProducts();
 
-    console.log(params);
-
-    if (params.type) {
-      setProducts(allProducts.data.filter((item) => item.type === params.type));
-    } else {
+    if (!search && !type) {
       setProducts(allProducts.data);
+    }
+
+    if (search) {
+      setProducts(
+        allProducts.data.filter((item) =>
+          item.name.toLowerCase().includes(search.toLowerCase()),
+        ),
+      );
+    }
+    if (type) {
+      setProducts(allProducts.data.filter((item) => item.type === type));
     }
   };
 
   useEffect(() => {
     getProducts();
-  }, []);
+  }, [search, type]);
 
   return (
     <>
       <Header />
       <HeadStyled>
-        <p>Inicio / </p>
-        <h2>Electrónica de segunda mano</h2>
+        <p>Inicio / {type}</p>
+        <h2>{types[type]}</h2>
       </HeadStyled>
       <InputStyled placeholder="🔍 Busca en todas las categorías"></InputStyled>
       <ProductButton>

@@ -30,13 +30,16 @@ const DesStyled = styled.p`
 `;
 
 const Product = (props) => {
-  const { name, images, description, price } = props;
+  const { name, image, description, price } = props;
 
+  const addDefaultSrc = (e) => {
+    e.target.src = '/src/assets/images/default-product-img.webp';
+  };
   return (
     <>
       <div>
         <CardProduct>
-          <CardImg src={images} />
+          <CardImg src={image} onError={addDefaultSrc} />
 
           <h3>{price}</h3>
           <h4>{name}</h4>
